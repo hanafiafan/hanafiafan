@@ -1,22 +1,22 @@
 {
   "username": "hanafiafan",
-  "generated_at": "2026-08-29T12:39:49Z",
+  "generated_at": "2026-08-30T11:52:02Z",
   "range": {
-    "start": "2025-08-24",
+    "start": "2025-08-31",
+    "end": "2026-08-30"
+  },
+  "total_contributions": 965,
+  "active_days": 141,
+  "avg_per_active_day": 6.8,
+  "current_streak": {
+    "length": 20,
+    "start": "2026-08-10",
     "end": "2026-08-29"
   },
-  "total_contributions": 966,
-  "active_days": 141,
-  "avg_per_active_day": 6.9,
-  "current_streak": {
-    "length": 19,
-    "start": "2026-08-10",
-    "end": "2026-08-28"
-  },
   "longest_streak": {
-    "length": 19,
+    "length": 20,
     "start": "2026-08-10",
-    "end": "2026-08-28"
+    "end": "2026-08-29"
   },
   "best_day": {
     "date": "2026-08-13",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-08",
-      "total": 2
+      "total": 0
     },
     {
       "month": "2025-09",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-08",
-      "total": 386
+      "total": 387
     }
   ],
   "days": [
-    {
-      "date": "2025-08-24",
-      "count": 0
-    },
-    {
-      "date": "2025-08-25",
-      "count": 0
-    },
-    {
-      "date": "2025-08-26",
-      "count": 0
-    },
-    {
-      "date": "2025-08-27",
-      "count": 0
-    },
-    {
-      "date": "2025-08-28",
-      "count": 2
-    },
-    {
-      "date": "2025-08-29",
-      "count": 0
-    },
-    {
-      "date": "2025-08-30",
-      "count": 0
-    },
     {
       "date": "2025-08-31",
       "count": 0
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-08-29",
+      "count": 1
+    },
+    {
+      "date": "2026-08-30",
       "count": 0
     }
   ]
