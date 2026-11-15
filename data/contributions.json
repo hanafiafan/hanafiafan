@@ -1,22 +1,22 @@
 {
   "username": "hanafiafan",
-  "generated_at": "2026-11-14T13:27:21Z",
+  "generated_at": "2026-11-15T13:53:00Z",
   "range": {
-    "start": "2025-11-09",
+    "start": "2025-11-16",
+    "end": "2026-11-15"
+  },
+  "total_contributions": 2633,
+  "active_days": 202,
+  "avg_per_active_day": 13.0,
+  "current_streak": {
+    "length": 97,
+    "start": "2026-08-10",
     "end": "2026-11-14"
   },
-  "total_contributions": 2588,
-  "active_days": 202,
-  "avg_per_active_day": 12.8,
-  "current_streak": {
-    "length": 96,
-    "start": "2026-08-10",
-    "end": "2026-11-13"
-  },
   "longest_streak": {
-    "length": 96,
+    "length": 97,
     "start": "2026-08-10",
-    "end": "2026-11-13"
+    "end": "2026-11-14"
   },
   "best_day": {
     "date": "2026-10-08",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-11",
-      "total": 5
+      "total": 4
     },
     {
       "month": "2025-12",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-11",
-      "total": 65
+      "total": 111
     }
   ],
   "days": [
-    {
-      "date": "2025-11-09",
-      "count": 0
-    },
-    {
-      "date": "2025-11-10",
-      "count": 0
-    },
-    {
-      "date": "2025-11-11",
-      "count": 0
-    },
-    {
-      "date": "2025-11-12",
-      "count": 1
-    },
-    {
-      "date": "2025-11-13",
-      "count": 0
-    },
-    {
-      "date": "2025-11-14",
-      "count": 0
-    },
-    {
-      "date": "2025-11-15",
-      "count": 0
-    },
     {
       "date": "2025-11-16",
       "count": 0
@@ -1539,11 +1511,11 @@
     },
     {
       "date": "2026-11-09",
-      "count": 26
+      "count": 51
     },
     {
       "date": "2026-11-10",
-      "count": 3
+      "count": 5
     },
     {
       "date": "2026-11-11",
@@ -1551,7 +1523,7 @@
     },
     {
       "date": "2026-11-12",
-      "count": 3
+      "count": 5
     },
     {
       "date": "2026-11-13",
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-11-14",
+      "count": 17
+    },
+    {
+      "date": "2026-11-15",
       "count": 0
     }
   ]
